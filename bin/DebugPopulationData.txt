@@ -1,0 +1,611 @@
+{
+  "data": [
+    {
+      "lifespan": 20,
+      "birthDate": 1957,
+      "deathDate": 1977
+    },
+    {
+      "lifespan": 32,
+      "birthDate": 1961,
+      "deathDate": 1993
+    },
+    {
+      "lifespan": 63,
+      "birthDate": 1902,
+      "deathDate": 1965
+    },
+    {
+      "lifespan": 18,
+      "birthDate": 1942,
+      "deathDate": 1960
+    },
+    {
+      "lifespan": 74,
+      "birthDate": 1919,
+      "deathDate": 1993
+    },
+    {
+      "lifespan": 61,
+      "birthDate": 1902,
+      "deathDate": 1963
+    },
+    {
+      "lifespan": 48,
+      "birthDate": 1924,
+      "deathDate": 1972
+    },
+    {
+      "lifespan": 59,
+      "birthDate": 1919,
+      "deathDate": 1978
+    },
+    {
+      "lifespan": 64,
+      "birthDate": 1906,
+      "deathDate": 1970
+    },
+    {
+      "lifespan": 55,
+      "birthDate": 1933,
+      "deathDate": 1988
+    },
+    {
+      "lifespan": 48,
+      "birthDate": 1914,
+      "deathDate": 1962
+    },
+    {
+      "lifespan": 22,
+      "birthDate": 1941,
+      "deathDate": 1963
+    },
+    {
+      "lifespan": 54,
+      "birthDate": 1903,
+      "deathDate": 1957
+    },
+    {
+      "lifespan": 54,
+      "birthDate": 1913,
+      "deathDate": 1967
+    },
+    {
+      "lifespan": 43,
+      "birthDate": 1924,
+      "deathDate": 1967
+    },
+    {
+      "lifespan": 39,
+      "birthDate": 1929,
+      "deathDate": 1968
+    },
+    {
+      "lifespan": 48,
+      "birthDate": 1911,
+      "deathDate": 1959
+    },
+    {
+      "lifespan": 53,
+      "birthDate": 1946,
+      "deathDate": 1999
+    },
+    {
+      "lifespan": 40,
+      "birthDate": 1917,
+      "deathDate": 1957
+    },
+    {
+      "lifespan": 43,
+      "birthDate": 1941,
+      "deathDate": 1984
+    },
+    {
+      "lifespan": 73,
+      "birthDate": 1925,
+      "deathDate": 1998
+    },
+    {
+      "lifespan": 53,
+      "birthDate": 1915,
+      "deathDate": 1968
+    },
+    {
+      "lifespan": 45,
+      "birthDate": 1924,
+      "deathDate": 1969
+    },
+    {
+      "lifespan": 59,
+      "birthDate": 1924,
+      "deathDate": 1983
+    },
+    {
+      "lifespan": 72,
+      "birthDate": 1906,
+      "deathDate": 1978
+    },
+    {
+      "lifespan": 41,
+      "birthDate": 1932,
+      "deathDate": 1973
+    },
+    {
+      "lifespan": 53,
+      "birthDate": 1927,
+      "deathDate": 1980
+    },
+    {
+      "lifespan": 72,
+      "birthDate": 1905,
+      "deathDate": 1977
+    },
+    {
+      "lifespan": 64,
+      "birthDate": 1904,
+      "deathDate": 1968
+    },
+    {
+      "lifespan": 53,
+      "birthDate": 1938,
+      "deathDate": 1991
+    },
+    {
+      "lifespan": 61,
+      "birthDate": 1935,
+      "deathDate": 1996
+    },
+    {
+      "lifespan": 37,
+      "birthDate": 1900,
+      "deathDate": 1937
+    },
+    {
+      "lifespan": 59,
+      "birthDate": 1917,
+      "deathDate": 1976
+    },
+    {
+      "lifespan": 52,
+      "birthDate": 1948,
+      "deathDate": 2000
+    },
+    {
+      "lifespan": 47,
+      "birthDate": 1935,
+      "deathDate": 1982
+    },
+    {
+      "lifespan": 37,
+      "birthDate": 1903,
+      "deathDate": 1940
+    },
+    {
+      "lifespan": 30,
+      "birthDate": 1903,
+      "deathDate": 1933
+    },
+    {
+      "lifespan": 25,
+      "birthDate": 1922,
+      "deathDate": 1947
+    },
+    {
+      "lifespan": 48,
+      "birthDate": 1902,
+      "deathDate": 1950
+    },
+    {
+      "lifespan": 74,
+      "birthDate": 1908,
+      "deathDate": 1982
+    },
+    {
+      "lifespan": 53,
+      "birthDate": 1924,
+      "deathDate": 1977
+    },
+    {
+      "lifespan": 56,
+      "birthDate": 1904,
+      "deathDate": 1960
+    },
+    {
+      "lifespan": 67,
+      "birthDate": 1919,
+      "deathDate": 1986
+    },
+    {
+      "lifespan": 58,
+      "birthDate": 1920,
+      "deathDate": 1978
+    },
+    {
+      "lifespan": 54,
+      "birthDate": 1910,
+      "deathDate": 1964
+    },
+    {
+      "lifespan": 66,
+      "birthDate": 1921,
+      "deathDate": 1987
+    },
+    {
+      "lifespan": 60,
+      "birthDate": 1910,
+      "deathDate": 1970
+    },
+    {
+      "lifespan": 50,
+      "birthDate": 1921,
+      "deathDate": 1971
+    },
+    {
+      "lifespan": 50,
+      "birthDate": 1924,
+      "deathDate": 1974
+    },
+    {
+      "lifespan": 30,
+      "birthDate": 1921,
+      "deathDate": 1951
+    },
+    {
+      "lifespan": 73,
+      "birthDate": 1903,
+      "deathDate": 1976
+    },
+    {
+      "lifespan": 54,
+      "birthDate": 1929,
+      "deathDate": 1983
+    },
+    {
+      "lifespan": 38,
+      "birthDate": 1912,
+      "deathDate": 1950
+    },
+    {
+      "lifespan": 56,
+      "birthDate": 1933,
+      "deathDate": 1989
+    },
+    {
+      "lifespan": 56,
+      "birthDate": 1913,
+      "deathDate": 1969
+    },
+    {
+      "lifespan": 64,
+      "birthDate": 1912,
+      "deathDate": 1976
+    },
+    {
+      "lifespan": 52,
+      "birthDate": 1918,
+      "deathDate": 1970
+    },
+    {
+      "lifespan": 34,
+      "birthDate": 1958,
+      "deathDate": 1992
+    },
+    {
+      "lifespan": 45,
+      "birthDate": 1923,
+      "deathDate": 1968
+    },
+    {
+      "lifespan": 54,
+      "birthDate": 1921,
+      "deathDate": 1975
+    },
+    {
+      "lifespan": 39,
+      "birthDate": 1927,
+      "deathDate": 1966
+    },
+    {
+      "lifespan": 37,
+      "birthDate": 1914,
+      "deathDate": 1951
+    },
+    {
+      "lifespan": 50,
+      "birthDate": 1950,
+      "deathDate": 2000
+    },
+    {
+      "lifespan": 39,
+      "birthDate": 1917,
+      "deathDate": 1956
+    },
+    {
+      "lifespan": 57,
+      "birthDate": 1941,
+      "deathDate": 1998
+    },
+    {
+      "lifespan": 60,
+      "birthDate": 1938,
+      "deathDate": 1998
+    },
+    {
+      "lifespan": 43,
+      "birthDate": 1950,
+      "deathDate": 1993
+    },
+    {
+      "lifespan": 51,
+      "birthDate": 1930,
+      "deathDate": 1981
+    },
+    {
+      "lifespan": 56,
+      "birthDate": 1916,
+      "deathDate": 1972
+    },
+    {
+      "lifespan": 46,
+      "birthDate": 1941,
+      "deathDate": 1987
+    },
+    {
+      "lifespan": 42,
+      "birthDate": 1930,
+      "deathDate": 1972
+    },
+    {
+      "lifespan": 51,
+      "birthDate": 1942,
+      "deathDate": 1993
+    },
+    {
+      "lifespan": 39,
+      "birthDate": 1919,
+      "deathDate": 1958
+    },
+    {
+      "lifespan": 44,
+      "birthDate": 1936,
+      "deathDate": 1980
+    },
+    {
+      "lifespan": 47,
+      "birthDate": 1926,
+      "deathDate": 1973
+    },
+    {
+      "lifespan": 50,
+      "birthDate": 1916,
+      "deathDate": 1966
+    },
+    {
+      "lifespan": 63,
+      "birthDate": 1920,
+      "deathDate": 1983
+    },
+    {
+      "lifespan": 50,
+      "birthDate": 1934,
+      "deathDate": 1984
+    },
+    {
+      "lifespan": 43,
+      "birthDate": 1932,
+      "deathDate": 1975
+    },
+    {
+      "lifespan": 30,
+      "birthDate": 1950,
+      "deathDate": 1980
+    },
+    {
+      "lifespan": 28,
+      "birthDate": 1967,
+      "deathDate": 1995
+    },
+    {
+      "lifespan": 42,
+      "birthDate": 1941,
+      "deathDate": 1983
+    },
+    {
+      "lifespan": 73,
+      "birthDate": 1925,
+      "deathDate": 1998
+    },
+    {
+      "lifespan": 43,
+      "birthDate": 1926,
+      "deathDate": 1969
+    },
+    {
+      "lifespan": 45,
+      "birthDate": 1954,
+      "deathDate": 1999
+    },
+    {
+      "lifespan": 60,
+      "birthDate": 1902,
+      "deathDate": 1962
+    },
+    {
+      "lifespan": 56,
+      "birthDate": 1924,
+      "deathDate": 1980
+    },
+    {
+      "lifespan": 45,
+      "birthDate": 1927,
+      "deathDate": 1972
+    },
+    {
+      "lifespan": 60,
+      "birthDate": 1916,
+      "deathDate": 1976
+    },
+    {
+      "lifespan": 26,
+      "birthDate": 1940,
+      "deathDate": 1966
+    },
+    {
+      "lifespan": 48,
+      "birthDate": 1940,
+      "deathDate": 1988
+    },
+    {
+      "lifespan": 29,
+      "birthDate": 1906,
+      "deathDate": 1935
+    },
+    {
+      "lifespan": 35,
+      "birthDate": 1905,
+      "deathDate": 1940
+    },
+    {
+      "lifespan": 27,
+      "birthDate": 1922,
+      "deathDate": 1949
+    },
+    {
+      "lifespan": 63,
+      "birthDate": 1915,
+      "deathDate": 1978
+    },
+    {
+      "lifespan": 56,
+      "birthDate": 1942,
+      "deathDate": 1998
+    },
+    {
+      "lifespan": 30,
+      "birthDate": 1945,
+      "deathDate": 1975
+    },
+    {
+      "lifespan": 67,
+      "birthDate": 1919,
+      "deathDate": 1986
+    },
+    {
+      "lifespan": 58,
+      "birthDate": 1934,
+      "deathDate": 1992
+    },
+    {
+      "lifespan": 46,
+      "birthDate": 1934,
+      "deathDate": 1980
+    }
+  ],
+  "population": [
+    1,
+    1,
+    5,
+    9,
+    11,
+    13,
+    16,
+    16,
+    17,
+    17,
+    19,
+    20,
+    22,
+    24,
+    26,
+    28,
+    31,
+    34,
+    35,
+    40,
+    42,
+    46,
+    48,
+    49,
+    56,
+    58,
+    60,
+    63,
+    63,
+    65,
+    67,
+    67,
+    69,
+    71,
+    73,
+    75,
+    75,
+    75,
+    76,
+    76,
+    78,
+    81,
+    84,
+    84,
+    84,
+    85,
+    86,
+    86,
+    86,
+    86,
+    88,
+    86,
+    84,
+    84,
+    85,
+    85,
+    85,
+    85,
+    84,
+    83,
+    82,
+    81,
+    81,
+    79,
+    77,
+    76,
+    75,
+    73,
+    71,
+    67,
+    64,
+    61,
+    60,
+    56,
+    54,
+    53,
+    50,
+    46,
+    43,
+    39,
+    39,
+    34,
+    33,
+    31,
+    27,
+    25,
+    25,
+    23,
+    21,
+    19,
+    18,
+    18,
+    17,
+    15,
+    11,
+    11,
+    10,
+    9,
+    9,
+    4,
+    2
+  ],
+  "Mean": 50,
+  "StandardDeviation": 15,
+  "RangeStart": 1900,
+  "RangeEnd": 2000
+}

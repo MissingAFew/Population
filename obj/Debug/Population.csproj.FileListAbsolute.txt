@@ -1,0 +1,13 @@
+D:\BitBucket\Population\Population\bin\Debug\Population.exe.config
+D:\BitBucket\Population\Population\bin\Debug\Population.exe
+D:\BitBucket\Population\Population\bin\Debug\Population.pdb
+D:\BitBucket\Population\Population\bin\Debug\Newtonsoft.Json.dll
+D:\BitBucket\Population\Population\bin\Debug\Newtonsoft.Json.xml
+D:\BitBucket\Population\Population\obj\Debug\Population.csprojAssemblyReference.cache
+D:\BitBucket\Population\Population\obj\Debug\Population.Graph.resources
+D:\BitBucket\Population\Population\obj\Debug\Population.Properties.Resources.resources
+D:\BitBucket\Population\Population\obj\Debug\Population.csproj.GenerateResource.cache
+D:\BitBucket\Population\Population\obj\Debug\Population.csproj.CoreCompileInputs.cache
+D:\BitBucket\Population\Population\obj\Debug\Population.csproj.CopyComplete
+D:\BitBucket\Population\Population\obj\Debug\Population.exe
+D:\BitBucket\Population\Population\obj\Debug\Population.pdb
